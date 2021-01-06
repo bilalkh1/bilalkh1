@@ -1,4 +1,4 @@
-## Hey! Welcome To My Profile 👋
+## Hey! Welcome To My Profile <img src="https://gifimage.net/wp-content/uploads/2018/11/hi-emoji-gif-5.gif" width="20" height="20">
 
 I'm Bilal El KHATAB, Mean Stack Developer From Morocco, I'm currently student in computer and mobile master at faculty of science and technics.
 
