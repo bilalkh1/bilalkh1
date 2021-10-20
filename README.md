@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/bilal_khatab" target="blank"><img src="https://img.shields.io/twitter/follow/bilal_khatab?logo=twitter&style=for-the-badge" alt="bilal_khatab" /></a> </p>
 
+- 📫 How to reach me **khatabbilal12@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bilal_khatab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilal_khatab" height="30" width="40" /></a>
